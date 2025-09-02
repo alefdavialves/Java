@@ -16,7 +16,7 @@ public class Ex19 {
 
 while (a < b) {
     System.out.println(a + " ");
-    a = a + 1;
+    a++;
 
     }
     }
